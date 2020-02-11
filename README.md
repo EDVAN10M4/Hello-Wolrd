@@ -1,6 +1,3 @@
 # Hello-Wolrd
 Estas são minhas anotações
-Olá, Sou  o Edvan, estou iniciando nesse mundo da programação... 
-Gostaria muito da colaboração de  quem poder ajudar. 
-Irei me esforçar ao  máximo, para um dia me tornar um Programador ... 
-Obrigado.
+Olá, Sou  o Edvan, estou iniciando no mundo da programação e gostaria muit do alxílio.
